@@ -1,4 +1,4 @@
-# Úkol 6 – Husy a králíci
+6# Úkol 6 – Husy a králíci
 
 Naprogramujte aplikaci, která se hodí každému farmáři a farmářce.
 
